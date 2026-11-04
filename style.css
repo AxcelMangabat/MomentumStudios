@@ -2747,7 +2747,9 @@ footer {
 
 @media (max-width: 425px) and (min-width: 320px) {
 
-
+    html{
+        overflow-x: none;
+    }
     .navTitle h4 {
         letter-spacing: 0.01rem;
     }
