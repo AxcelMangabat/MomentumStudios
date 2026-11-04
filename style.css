@@ -3353,6 +3353,11 @@ footer {
         max-width: 21rem;
         height: 21rem;
     }
+    .visbackground{
+        width: 100%;
+        max-width: 21rem;
+        height: 21rem;
+    }
 
     .squarePicture {
         width: 100%;
