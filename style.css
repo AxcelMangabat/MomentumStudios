@@ -2750,6 +2750,7 @@ footer {
     html{
         overflow-x: hidden;
     }
+    
     .navTitle h4 {
         letter-spacing: 0.01rem;
     }
@@ -2946,7 +2947,8 @@ footer {
     }
 
     .problemRight>.Panel {
-        width: 23rem;
+        width: 100%;
+        max-width: 23rem;
     }
 
     .nameandemail {
@@ -3347,12 +3349,13 @@ footer {
     }
 
     .visContainer {
-        width: 21rem;
+        width: 100%;
+        max-width: 21rem;
         height: 21rem;
     }
 
     .squarePicture {
-        width: 21rem;
+        width: 100%;
         height: 21rem;
     }
 
@@ -3363,6 +3366,7 @@ footer {
 
     .visCard {
         padding: 1rem 1rem;
+        right: 0;
 
     }
 
